@@ -216,4 +216,11 @@ console.log(sum(a,b));
 ## Finally
 ### our Environment is Ready to Learn or Practice ES6. Change the **index.js** File according to your learning need and see Output in Browser Console
 
+## [ Optional ] Editor and Extensions That May Give You a Better Feel
+* [VS Code](https://code.visualstudio.com/Download) Editor
+* JavaScript (ES6) code snippets
+* Mithril Emmet
+* Markdown All in One
+* Live Server
+  
 # Thank You
